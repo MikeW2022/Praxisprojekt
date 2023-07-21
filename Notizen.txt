@@ -1,5 +1,42 @@
  
 
+Struktur
+
+	Einleitung
+		Unternehmensprofil
+		Projektbegründung
+			Projektziel und Projektumfang
+			Requirements Engineering
+			Risikoanalyse
+			Projektplan
+
+		Methodik
+
+		Grundlagen und Definition
+
+		Ist-Analyse
+
+
+		Soll-Konzept
+			Implementierung nach dem DevOps-Ansatz
+			Aufbau der Testumgebung
+			Entwickeln von Testszenarien/Testcases
+			Konzept für die Implementierung
+
+		Realisierung
+			Implementierung
+
+			Test
+
+			Integration
+
+			Projektabschluss
+	
+
+
+
+
+
 Literaturquellen zu
 
 	Projektphasen
@@ -36,3 +73,24 @@ Dabei werden die Daten aus einem Format (z. B. XML) in das standardisierte
 In der Projektdurchführung wurden nach Erhebung der Ausgangssituation die Anforderungen definiert und Projektrisiken identifiziert. Basierend auf den Anforderungen und den Projektrisiken erfolgten die Konzeption zur Umsetzung, die Studie zur Machbarkeit und Kostenkalkulation sowie eine grobe Terminplanung. Konzept, Machbarkeitsstudie und Kostenkalkulation sind die Voraussetzung für den Projektantrag und Projektbegründung. Nach Freigabe des Projekts durch die Geschäftsleitung wurden in der ersten Phase der Entwurf zum Datenmodell und das Design entwickelt. In der anschließenden Implementierung wurde der Programmcode entwickelt und in der darauffolgenden Testphase methodisch getestet. Nach Abschluss der Testphase erfolgte die schrittweise Bereitstellung und Inbetriebnahme, die durch Schulung der Anwender begleitet wurde. 
 
 
+Die Software ist eine Eigenentwicklung des Unternehmens und dient dem Monitoring und der Analyse von Dateikonvertierungen für den elektronischen Datenaustausch (EDI). 
+
+
+Begriffe in der Begriffserläuterung
+	Stakeholder
+	Edifact
+	Requirements Engineering 
+	Change Managements
+
+
+
+
+Requirement_Engineering_Challenges_in_Agile_Software_Development
+
+Rasheed
+
+Risikofaktor Wirkung
+Beschreibung
+Wirkung
+Eintrittswahrscheinlichkeit 
+Schadensausmaß
