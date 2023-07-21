@@ -1,0 +1,38 @@
+ 
+
+Literaturquellen zu
+
+	Projektphasen
+
+	Projektbegründung, Machbarkeit
+
+	KVP
+
+	Anforderungsanalyse
+
+	User storys
+
+	Risikoanalyse
+
+	Projektplan?
+
+	Ist-Aanalyse
+
+	Soll-Konzept
+
+	Implementierung / Devop
+
+	Testen
+
+	Integration / Deploy
+
+
+
+
+
+
+Dabei werden die Daten aus einem Format (z. B. XML) in das standardisierte 
+
+In der Projektdurchführung wurden nach Erhebung der Ausgangssituation die Anforderungen definiert und Projektrisiken identifiziert. Basierend auf den Anforderungen und den Projektrisiken erfolgten die Konzeption zur Umsetzung, die Studie zur Machbarkeit und Kostenkalkulation sowie eine grobe Terminplanung. Konzept, Machbarkeitsstudie und Kostenkalkulation sind die Voraussetzung für den Projektantrag und Projektbegründung. Nach Freigabe des Projekts durch die Geschäftsleitung wurden in der ersten Phase der Entwurf zum Datenmodell und das Design entwickelt. In der anschließenden Implementierung wurde der Programmcode entwickelt und in der darauffolgenden Testphase methodisch getestet. Nach Abschluss der Testphase erfolgte die schrittweise Bereitstellung und Inbetriebnahme, die durch Schulung der Anwender begleitet wurde. 
+
+
