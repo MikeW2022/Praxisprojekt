@@ -81,16 +81,37 @@ Begriffe in der Begriffserläuterung
 	Edifact
 	Requirements Engineering 
 	Change Managements
+	Mind Map
+	Devops
+	CI/CD
+
+
+1. Projektbegründung
+
+2. Istanalyse
+
+
+3. Sollkonzept
+
+
+4. Realisierung
+
+
+5. Implementierung
 
 
 
+Projektinitialisierung
 
-Requirement_Engineering_Challenges_in_Agile_Software_Development
+Anforderungsanalyse und -definition
 
-Rasheed
+Entwurf
 
-Risikofaktor Wirkung
-Beschreibung
-Wirkung
-Eintrittswahrscheinlichkeit 
-Schadensausmaß
+Implementierung
+
+Integration und Test
+
+
+Schoeneberg, K.-P. (2011). Kritische Erfolgsfaktoren von IT-Projekten. Eine empirische
+Analyse von ERP-Implementierungen am Beispiel der Mineralölbranche. Rainer
+Hampp Verlag. https://doi.org/10.1688/9783866187122
