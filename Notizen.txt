@@ -84,20 +84,28 @@ Begriffe in der Begriffserläuterung
 	Mind Map
 	Devops
 	CI/CD
+	IDE
+	ETL
+	JDBC
+
+IDE 	Integrated Development Environment 
+(integrierte Entwicklungsumgebung)
 
 
 1. Projektbegründung
 
-2. Istanalyse
+2. Anforderungsphase
+
+3. Analysephase / Istanalyse
 
 
-3. Sollkonzept
+4. Entwurfsphase / Sollkonzept
 
 
-4. Realisierung
+5. Implementierungsphase / Realisierung
 
 
-5. Implementierung
+6. Testphase
 
 
 
@@ -111,7 +119,30 @@ Implementierung
 
 Integration und Test
 
+Voraussetzungen der Projektkontrolle 
+Erhebung der Ist-Daten
 
-Schoeneberg, K.-P. (2011). Kritische Erfolgsfaktoren von IT-Projekten. Eine empirische
-Analyse von ERP-Implementierungen am Beispiel der Mineralölbranche. Rainer
-Hampp Verlag. https://doi.org/10.1688/9783866187122
+Krallmann, H., Schönherr, M., Trier, M.: Systemanalyse im Unternehmen Oldenbourg Verlag München, 2007
+Klimmer, M.: Verlag neue Wirtschafts-Briefe GmbH & Co. KG, NWB Verlag GmbH & Co. KG, Herne, 4. Auflage, 2016
+
+
+CSV			Comma Separated Value	
+FF			Fix Format
+HTML		Hypertext Markup Language
+Infor
+IDoc		Intermediate Document
+JDE			JD Edwards
+PDF			Portable Document Format
+TRC			Tradacoms
+X12			ANSI X12
+XML			Extensible Markup Language
+
+
+AS2			Applicability Statement 2
+FTP			File Transfer Protocol	
+HTTP		Hypertext Transfer Protocol
+HTTPS		Hypertext Transfer Protocol Secure
+OFTP		Odette File Transfer Protocol 
+SFTP		Secure File Transfer Protocol
+SMTP		Simple Mail Transfer Protocol
+X.400		E-Mail-System basierend auf P7-Protokoll
