@@ -146,3 +146,10 @@ OFTP		Odette File Transfer Protocol
 SFTP		Secure File Transfer Protocol
 SMTP		Simple Mail Transfer Protocol
 X.400		E-Mail-System basierend auf P7-Protokoll
+
+
+
+
+Einführung in das Projektmanagement
+S. 121
+Testen
