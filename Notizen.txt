@@ -150,22 +150,13 @@ X.400		E-Mail-System basierend auf P7-Protokoll
 
 
 
-Einführung in das Projektmanagement
-S. 121
-Testen
+Testausführung
+Black-Box-Test anhand eines konkreten Bsp. beschreiben
 
-Myers, G.J.: Methodisches Testen von Programmen, Oldenbourg, 1995, 5. Auflage 
+Dokumentation
 
-Burghardt, M.: Projektmanagement, Publicis MCD Verlag, 1995 
+Screenshots zu Dokumenten wir Testvorschrift, Testfall, Testbericht
 
-Frühauf, u.a.: Software-Prüfung, vdf Hochschulverlag an der ETH Zürich, 2000 
-
-Thaller, G.E.: Software-Qualität, VDE Verlag, 2000 
-
-
-
-Testphase
-Transferphase
 
 
 
