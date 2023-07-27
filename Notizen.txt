@@ -158,6 +158,11 @@ Dokumentation
 Screenshots zu Dokumenten wir Testvorschrift, Testfall, Testbericht
 
 
+(Quelle: Softzoll GmbH & Co. KG, 2023)
+Benutzeranalage im "Progress Monitor"
+
+
+Calibre
 
 
 

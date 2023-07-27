@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+    <distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+    <operatorURL>http://books.google.com/books/acs4/fulfillment</operatorURL>
+    <expiration>2023-07-27T04:11:52-07:00</expiration>
+    <transaction>ge:cfaa9e47-9184-5fe9-cc0a-8452529967ed:1690455412102804</transaction>
+    <userId>15658248723548284935</userId>
+    <resourceItemInfo>
+        <resource>urn:uuid:cfaa9e47-9184-5fe9-cc0a-8452529967ed</resource>
+        <resourceItem>1</resourceItem>
+        <src>https://books.google.com/books/download/Software_Pr%C3%BCfung.pdf?acsid=urn:uuid:cfaa9e47-9184-5fe9-cc0a-8452529967ed&amp;output=acs4_book_bytes&amp;ar=41733884b8934d3bd8f23a1ae60373c3</src>
+        <downloadType>simple</downloadType>
+    </resourceItemInfo>
+    <hmac>GMWrDkF6qfT7EUhr6GzdvxJuBok=</hmac>
+</fulfillmentToken>

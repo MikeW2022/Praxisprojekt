@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+    <distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+    <operatorURL>http://books.google.com/books/acs4/fulfillment</operatorURL>
+    <expiration>2023-07-27T03:59:53-07:00</expiration>
+    <transaction>ge:9dabf48a-ce3e-9823-1166-a49b8b818387:1690454693157956</transaction>
+    <userId>15658248723548284935</userId>
+    <resourceItemInfo>
+        <resource>urn:uuid:9dabf48a-ce3e-9823-1166-a49b8b818387</resource>
+        <resourceItem>1</resourceItem>
+        <src>https://books.google.com/books/download/Wiley_Schnellkurs_Projektmanagement.epub?acsid=urn:uuid:9dabf48a-ce3e-9823-1166-a49b8b818387&amp;output=acs4_book_bytes&amp;ar=6840d09104670c7c0234a5adb1db8db4</src>
+        <downloadType>simple</downloadType>
+    </resourceItemInfo>
+    <hmac>k8tze42RQoSs6myOP1F8edAQoMo=</hmac>
+</fulfillmentToken>
