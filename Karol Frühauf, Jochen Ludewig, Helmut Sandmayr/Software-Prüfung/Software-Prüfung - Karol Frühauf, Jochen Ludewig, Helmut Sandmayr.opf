@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">125f5923-4243-4a0d-920c-2b81890b0bf0</dc:identifier>
+        <dc:title>Software-Prüfung</dc:title>
+        <dc:creator opf:file-as="Karol Frühauf, Jochen Ludewig, Helmut Sandmayr" opf:role="aut">Karol Frühauf, Jochen Ludewig, Helmut Sandmayr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>de</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Karol Frühauf, Jochen Ludewig, Helmut Sandmayr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-07-27T11:13:17.458918+00:00"/>
+        <meta name="calibre:title_sort" content="Software-Prüfung"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="Software-Prüfung - Karol Frühauf, Jochen Ludewig, Helmut Sandmayr.jpg"/>
+    </guide>
+</package>
