@@ -4,14 +4,17 @@ Praxisprojekt vom 05.06.2023 bis 25.08.2023
 
 Übersicht zu den Projektdokumenten
 
-Testvorschrift 
-T-Doc 1/001 vom 25.07.2023
+Testvorschrift TSpec 1/001 vom 25.07.2023
 
-Anforderungs-Dokument Referenz: Req-Doc 1.001 vom 26.06.2023
+Anforderungs-Dokument Referenz: ReqSpec 1.001 1.001 vom 26.06.2023
 enthält die funktionalen und nicht funktionalen Anforderungen
 
-Anforderungs-Dokument Referenz: Req-Doc 2.001 vom 12.04.2019
+Anforderungs-Dokument Referenz: ReqSpec 2.001 vom 12.04.2019
 enthält die Spezifikationen zur Schriftformatierung der Textfelder und zu den Steuerelementen im Programm
 
-Anforderungs-Dokument Referenz: Req-Doc 3.001 vom 21.05.2019
+Anforderungs-Dokument Referenz: ReqSpec 3.001 vom 21.05.2019
 enthält die Spezifikationen zu Fehlermeldungen im Programm
+
+Testbericht	TRep 1/001 vom 28.07.2023
+
+
