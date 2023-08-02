@@ -6,7 +6,7 @@ Praxisprojekt vom 05.06.2023 bis 25.08.2023
 
 Testvorschrift TSpec 1/001 vom 25.07.2023
 
-Anforderungs-Dokument Referenz: ReqSpec 1.001 1.001 vom 26.06.2023
+Anforderungs-Dokument Referenz: ReqSpec 1.001 vom 26.06.2023
 enthält die funktionalen und nicht funktionalen Anforderungen
 
 Anforderungs-Dokument Referenz: ReqSpec 2.001 vom 12.04.2019

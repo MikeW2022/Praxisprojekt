@@ -1,0 +1,76 @@
+Inhalte des Erstgesprächs mit Antje
+
+Termine:
+Fertigstellung:		spätestens 09.09.2023
+Abgabe:				spätestens 11.09.2023
+
+Bei der Projektphase / dem Praxisprojekt geht es darum, ein komplexes, praxisorientiertes Projekt mit den im Studium erlernten Methoden im Zusammenhang bearbeiten.
+
+
+Es ist ein Praxisbericht zu erstellen.
+Dieser soll eine Übung zur späteren Bachelorarbeit sein.
+Konkret bedeutet dies, dass der Bericht schon an den Bewertungskriterien der Bachelorarbeit orientiert, aber noch nicht so restriktive bewertet wird (Der Bericht soll nur ca. 20 bis 25 Seiten enthalten. Für die Durchführung des Projekts und Berichterstellung ist viel weniger Zeit, als für die Bachelorarbeit und es gibt auch keine Unterstützung durch einen Mentor.). 
+
+Anforderungen an den Bericht:
+Beschreibung der Projektdurchführung unter wissenschaftlichem Aspekt => belegte Aussagen, Begriffserläuterungen, Abbildungsverzeichnis, Tab-Verzeichnis, Quellenverzeichnis., Quellenangaben, Zitierstil, Schrift- und Absatzformatierung, Schreibstil (Formulierungen), analytisches und methodisches Vorgehen, Kausalitätskette, Plausibilität
+
+Vorgabe ca. 20 bis 25 Seiten
+
+Bitte lesen und zunächst prüfen, ob genannte inhaltliche und formelle Aspekte erfüllt sind. => Hierzu hätte ich gern ein Feedback.
+
+Bitte prüfen, ob meine Vorlagen für die Testvorschrift und den Testbericht ggf. praktische Anwendung im Unternehmen finden könnten.
+
+Folgende Tätigkeiten enthält der Bericht, die so nicht durchgeführt wurden
+- Anforderungs- und Risikoanalyse
+- DevOps mit CI/CD
+
+
+- Dateien (Dokumente), die noch nicht existieren, aber im Praxisbericht bzw. Testbericht erwähnt werden
+	- Anforderungs-Dokument Referenz: ReqSpec 1.001 vom 26.06.2023 (funktionale und nicht funktionale Anforderungen)
+	- Anforderungs-Dokument Referenz: ReqSpec 2.001 vom 12.04.2019 (Spezifikationen zur Schriftformatierung der Textfelder und zu den Steuerelementen im Programm)
+	- Anforderungs-Dokument Referenz: ReqSpec 3.001 vom 21.05.2019 (Spezifikationen zu Fehlermeldungen im Programm)
+	
+- Dateien (Dokumente), die erstellt wurden
+	- Testvorschrift TSpec 1/001 vom 25.07.2023
+	- Testbericht	TRep 1/001 vom 28.07.2023
+	
+
+Die Konverter sind als Datenkonverter beschrieben
+Es wird in der Beschreibung (aus Platzgründen) nicht zwischen RCV- und SND-Konverter unterschieden 
+
+Integration als Teil meiner Arbeit habe ich weggelassen (war ursprünglich Teil des Projektthemas im Projektantrag), ist das OK?
+
+Zum Bericht ist ein Zeugnis des Projektbetriebs erforderlich.
+Ich habe dazu bereits einen Entwurf vorbereitet.
+Das Zeugnis muss (typisch deutsch) auf Firmenpapier und mit Unterschrift und Firmenstempel beglaubigt werden.
+
+
+Ich muss noch ca. 7 Seiten einsparen
+
+Folgende Seiten können evtl. entfernt bzw. in den Anhang verschoben werden
+
+5	Anforderungsanalyse
+	1 Absatz auf S. 7							=> 1 Seite
+
+5.1	Risikoanalyse								=> 1 Seite
+	
+
+6	Ist-Aufnahme 
+	BPMN-Diagramm in den Anhang 				=> 1 Seite
+	
+
+Tab. 6.2	Übersicht zu den existierenden Systemkomponenten
+	S. 12 und 13 in den Anhang					=> 2 Seiten
+
+
+7	Spezifikation und Entwurf
+ggf. Auslagerung der Tab 7.1 in den Anhang?		=> 3 Seiten
+
+
+8 Implementierung 
+würde ich nur ungern entfernen					=> 1 Seite
+
+9 Tests
+S. 22	Unterscheidung der Software-Tests nach den Prüfkriterien 
+
+S. 27, 28	Screenshots zur Kunden- und Lieferanten-Anlage und Workflow-Verwaltung
