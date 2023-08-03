@@ -22,6 +22,7 @@ Bitte prüfen, ob meine Vorlagen für die Testvorschrift und den Testbericht ggf
 
 Folgende Tätigkeiten enthält der Bericht, die so nicht durchgeführt wurden
 - Anforderungs- und Risikoanalyse
+- User Story Map mit User Stories
 - DevOps mit CI/CD
 
 
